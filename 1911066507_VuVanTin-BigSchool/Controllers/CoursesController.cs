@@ -18,6 +18,8 @@ namespace _1911066507_VuVanTin_BigSchool.Controllers
         }
         // GET: Courses
         [Authorize]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(CourseViewModel viewModel)
         {
             if (!ModelState.IsValid)
@@ -35,6 +37,14 @@ namespace _1911066507_VuVanTin_BigSchool.Controllers
             _dbContext.Courses.Add(course);
             _dbContext.SaveChanges();
             return RedirectToAction("Index", "Home");
+        }
+        public ActionResult Create()
+        {
+            var viewModel = new CourseViewModel
+            {
+                Categories = _dbContext.Categories.ToList(),
+            };
+            return View(viewModel);
         }
     }
 }

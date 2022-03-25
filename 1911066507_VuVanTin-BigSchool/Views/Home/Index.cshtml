@@ -1,4 +1,32 @@
-﻿@{
+﻿@model IEnumerable<_1911066507_VuVanTin_BigSchool.Models.Course>
+
+@{
     ViewBag.Title = "Home Page";
 }
+<div class="row">
+    <ul>
+        @foreach (var course in Model)
+        {
+            <li>
+                <div class="date">
+                    <div class="month">
+                        @course.DateTime.ToString("MM")
+                    </div>
+                    <div class="day">
+                        @course.DateTime.ToString("dd")
+                    </div>
+                </div>
+                <div class="details">
+                    <div class="lecturer">
+                        @course.Lecturer.Name
+                    </div>
+                    <div class="category">
+                        @course.Category.Name
+                    </div>
+                </div>
+            </li>
+         }
+    </ul>
+
+</div>
 
