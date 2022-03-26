@@ -1,4 +1,5 @@
 ﻿
+using _1911066507_VuVanTin_BigSchool.DTOs;
 using _1911066507_VuVanTin_BigSchool.Models;
 using Microsoft.AspNet.Identity;
 using System;
@@ -19,12 +20,16 @@ namespace _1911066507_VuVanTin_BigSchool.Controllers
             _dbContext = new ApplicationDbContext();
         }
         [HttpPost]
-        public IHttpActionResult Attend([FromBody] int courseId)
+        public IHttpActionResult Attend(AttendanceDto attendanceDTo)
         {
+            var userId = User.Identity.GetUserId();
+            if (_dbContext.Attendances.Any(a => a.AttendeeId == userId && a.CourseId == attendanceDTo.CourseId))
+                return BadRequest("The Attendance already exists!");
+
             var attendace = new Attendance
             {
-                CourseId = courseId,
-                AttendeeId = User.Identity.GetUserId()
+                CourseId = attendanceDTo.CourseId,
+                AttendeeId = userId
             };
 
             _dbContext.Attendances.Add(attendace);

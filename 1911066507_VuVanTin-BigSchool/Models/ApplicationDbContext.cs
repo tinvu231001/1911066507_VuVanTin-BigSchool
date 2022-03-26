@@ -12,6 +12,8 @@ namespace _1911066507_VuVanTin_BigSchool.Models
         public DbSet<Course> Courses { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Attendance> Attendances { get; set; }
+
+        public DbSet<Following> Followings { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
@@ -29,6 +31,16 @@ namespace _1911066507_VuVanTin_BigSchool.Models
                .WithMany()
                 .WillCascadeOnDelete(false);
 
+
+            modelBuilder.Entity<ApplicationUser>()
+                .HasMany(u => u.Followers)
+                .WithRequired(f => f.Followee)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<ApplicationUser>()
+                .HasMany(u => u.Followees)
+                .WithRequired(f => f.Follower)
+                .WillCascadeOnDelete(false);
 
 
 
