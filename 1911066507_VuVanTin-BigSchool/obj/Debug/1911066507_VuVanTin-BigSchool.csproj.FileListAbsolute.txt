@@ -119,3 +119,4 @@ D:\Lập trình web\1911066507_VuVanTin-BigSchool\1911066507_VuVanTin-BigSchool\
 D:\Lập trình web\1911066507_VuVanTin-BigSchool\1911066507_VuVanTin-BigSchool\bin\System.Web.Http.WebHost.xml
 D:\Lập trình web\1911066507_VuVanTin-BigSchool\1911066507_VuVanTin-BigSchool\obj\Debug\_1911066507_VuVanTin_BigSchool.Migrations.AddAttendance.resources
 D:\Lập trình web\1911066507_VuVanTin-BigSchool\1911066507_VuVanTin-BigSchool\obj\Debug\_1911066507_VuVanTin_BigSchool.Migrations.AddFollowingsTable.resources
+D:\Lập trình web\1911066507_VuVanTin-BigSchool\1911066507_VuVanTin-BigSchool\obj\Debug\_1911066507_VuVanTin_BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
