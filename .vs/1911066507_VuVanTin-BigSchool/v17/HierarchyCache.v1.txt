@@ -8,6 +8,168 @@ i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\properties\assemblyinfo.cs
 ++References
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
+++App_Data
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_data\
+++App_Start
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\
+++BundleConfig.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\identityconfig.cs
+++RouteConfig.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\startup.auth.cs
+++WebApiConfig.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\webapiconfig.cs
+++Content
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\content\
+++Controllers
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\
+++AccountController.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\accountcontroller.cs
+++AttendancesController.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\attendancescontroller.cs
+++CoursesController.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\coursescontroller.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\api\coursescontroller.cs
+++HomeController.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\homecontroller.cs
+++ManageController.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\managecontroller.cs
+++fonts
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\
+++glyphicons-halflings-regular.eot
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.woff2
+++Migrations
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\
+++202203150342261_InitialModel.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203150342261_initialmodel.cs
+++202203150342261_InitialModel.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203150342261_initialmodel.designer.cs
+++202203150342261_InitialModel.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203150342261_initialmodel.resx
+++202203180517541_CreateTableCourse.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180517541_createtablecourse.cs
+++202203180517541_CreateTableCourse.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180517541_createtablecourse.designer.cs
+++202203180517541_CreateTableCourse.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180517541_createtablecourse.resx
+++202203180527463_PopulateCategoryTable.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180527463_populatecategorytable.cs
+++202203180527463_PopulateCategoryTable.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180527463_populatecategorytable.designer.cs
+++202203180527463_PopulateCategoryTable.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180527463_populatecategorytable.resx
+++202203250416011_AddAttendance.cs
+++202204020536471_AddNameColumnToApplicationUser.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020536471_addnamecolumntoapplicationuser.cs
+++Configuration.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\configuration.cs
+++Models
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\
+++AccountViewModels.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\accountviewmodels.cs
+++ApplicationDbContext.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\applicationdbcontext.cs
+++ApplicationUser.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\applicationuser.cs
+++Attendance.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\attendance.cs
+++Category.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\category.cs
+++Course.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\course.cs
+++ManageViewModels.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\manageviewmodels.cs
+++Scripts
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\scripts\
+++ViewModels
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\
+++CourseViewModel.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\courseviewmodel.cs
+++FutureDate.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\futuredate.cs
+++ValidTime.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\validtime.cs
+++Views
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\
+++Account
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\
+++_ExternalLoginsListPartial.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\_externalloginslistpartial.cshtml
+++ConfirmEmail.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\confirmemail.cshtml
+++ExternalLoginConfirmation.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\externalloginconfirmation.cshtml
+++ExternalLoginFailure.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\externalloginfailure.cshtml
+++ForgotPassword.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\login.cshtml
+++Register.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\register.cshtml
+++ResetPassword.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\resetpasswordconfirmation.cshtml
+++SendCode.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\sendcode.cshtml
+++VerifyCode.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\verifycode.cshtml
+++Attendances
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\attendances\
+++Courses
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\courses\
+++Create.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\courses\create.cshtml
+++Home
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\
+++About.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\about.cshtml
+++Contact.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\contact.cshtml
+++Index.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\index.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\manage\index.cshtml
+++Manage
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\manage\
+++Shared
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\
+++_Layout.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\error.cshtml
+++Lockout.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\lockout.cshtml
+++_ViewStart.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\_viewstart.cshtml
+++Web.config
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\web.config
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\web.config
+++favicon.ico
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\favicon.ico
+++Global.asax
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\global.asax
+++packages.config
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\packages.config
+++Startup.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\startup.cs
 ++Antlr3.Runtime
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
 ++EntityFramework
@@ -102,110 +264,6 @@ i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
 ++WebGrease
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
-++App_Data
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_data\
-++App_Start
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\
-++Content
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\content\
-++Controllers
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\
-++AccountController.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\accountcontroller.cs
-++CoursesController.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\coursescontroller.cs
-++HomeController.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\homecontroller.cs
-++ManageController.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\managecontroller.cs
-++fonts
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\
-++Migrations
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\
-++202203150342261_InitialModel.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203150342261_initialmodel.cs
-++202203180517541_CreateTableCourse.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180517541_createtablecourse.cs
-++202203180527463_PopulateCategoryTable.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180527463_populatecategorytable.cs
-++Configuration.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\configuration.cs
-++Models
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\
-++AccountViewModels.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\accountviewmodels.cs
-++ApplicationDbContext.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\applicationdbcontext.cs
-++ApplicationUser.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\applicationuser.cs
-++Category.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\category.cs
-++Course.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\course.cs
-++ManageViewModels.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\manageviewmodels.cs
-++Scripts
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\scripts\
-++ViewModels
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\
-++CourseViewModel.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\courseviewmodel.cs
-++FutureDate.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\futuredate.cs
-++ValidTime.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\viewmodels\validtime.cs
-++Views
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\
-++Account
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\
-++Courses
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\courses\
-++Create.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\courses\create.cshtml
-++Home
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\
-++About.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\about.cshtml
-++Contact.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\contact.cshtml
-++Index.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\home\index.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\manage\index.cshtml
-++Manage
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\manage\
-++Shared
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\
-++_Layout.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\_layout.cshtml
-++_LoginPartial.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\_loginpartial.cshtml
-++Error.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\error.cshtml
-++Lockout.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\shared\lockout.cshtml
-++_ViewStart.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\_viewstart.cshtml
-++Web.config
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\web.config
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\web.config
-++favicon.ico
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\favicon.ico
-++Global.asax
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\global.asax
-++packages.config
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\packages.config
-++Startup.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\startup.cs
-++BundleConfig.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\bundleconfig.cs
-++FilterConfig.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\filterconfig.cs
-++IdentityConfig.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\identityconfig.cs
-++RouteConfig.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\routeconfig.cs
-++Startup.Auth.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\app_start\startup.auth.cs
 ++bootstrap-theme.css
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\content\bootstrap-theme.css
 ++bootstrap-theme.css.map
@@ -224,28 +282,12 @@ i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\content\bootstrap.min.css.map
 ++Site.css
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\content\site.css
-++glyphicons-halflings-regular.eot
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.eot
-++glyphicons-halflings-regular.svg
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.svg
-++glyphicons-halflings-regular.ttf
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.ttf
-++glyphicons-halflings-regular.woff
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.woff
-++glyphicons-halflings-regular.woff2
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\fonts\glyphicons-halflings-regular.woff2
-++202203150342261_InitialModel.designer.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203150342261_initialmodel.designer.cs
-++202203150342261_InitialModel.resx
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203150342261_initialmodel.resx
-++202203180517541_CreateTableCourse.designer.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180517541_createtablecourse.designer.cs
-++202203180517541_CreateTableCourse.resx
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180517541_createtablecourse.resx
-++202203180527463_PopulateCategoryTable.designer.cs
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180527463_populatecategorytable.designer.cs
-++202203180527463_PopulateCategoryTable.resx
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202203180527463_populatecategorytable.resx
+++202203250416011_AddAttendance.designer.cs
+++202203250416011_AddAttendance.resx
+++202204020536471_AddNameColumnToApplicationUser.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020536471_addnamecolumntoapplicationuser.designer.cs
+++202204020536471_AddNameColumnToApplicationUser.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020536471_addnamecolumntoapplicationuser.resx
 ++bootstrap.js
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\scripts\bootstrap.js
 ++bootstrap.min.js
@@ -276,30 +318,6 @@ i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\scripts\jquery.validate.unobtrusive.min.js
 ++modernizr-2.8.3.js
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\scripts\modernizr-2.8.3.js
-++_ExternalLoginsListPartial.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\_externalloginslistpartial.cshtml
-++ConfirmEmail.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\confirmemail.cshtml
-++ExternalLoginConfirmation.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\externalloginconfirmation.cshtml
-++ExternalLoginFailure.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\externalloginfailure.cshtml
-++ForgotPassword.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\forgotpassword.cshtml
-++ForgotPasswordConfirmation.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\forgotpasswordconfirmation.cshtml
-++Login.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\login.cshtml
-++Register.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\register.cshtml
-++ResetPassword.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\resetpassword.cshtml
-++ResetPasswordConfirmation.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\resetpasswordconfirmation.cshtml
-++SendCode.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\sendcode.cshtml
-++VerifyCode.cshtml
-i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\account\verifycode.cshtml
 ++AddPhoneNumber.cshtml
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\manage\addphonenumber.cshtml
 ++ChangePassword.cshtml
@@ -316,3 +334,47 @@ i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\web.debug.config
 ++Web.Release.config
 i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\web.release.config
+++ApiController.cs
+++System.Net.Http.Formatting
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
+++System.Web.Http
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
+++System.Web.Http.WebHost
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:
+++NewFolder1
+++DTOs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\dtos\
+++AttendanceDto.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\dtos\attendancedto.cs
+++202204020815071_AddAttendance.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020815071_addattendance.cs
+++202204020815071_AddAttendance.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020815071_addattendance.designer.cs
+++202204020815071_AddAttendance.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020815071_addattendance.resx
+++Following.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\models\following.cs
+++202204020835162_AddFollowingsTable.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020835162_addfollowingstable.cs
+++202204020835162_AddFollowingsTable.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020835162_addfollowingstable.designer.cs
+++202204020835162_AddFollowingsTable.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020835162_addfollowingstable.resx
+++FollowingDto.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\dtos\followingdto.cs
+++Followings
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\followings\
+++FollowingsController.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\followingscontroller.cs
+++Attending.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\courses\attending.cshtml
+++Mine.cshtml
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\views\courses\mine.cshtml
+++202204020948250_AddIsCanceledColumnToCourse.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020948250_addiscanceledcolumntocourse.cs
+++202204020948250_AddIsCanceledColumnToCourse.designer.cs
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020948250_addiscanceledcolumntocourse.designer.cs
+++202204020948250_AddIsCanceledColumnToCourse.resx
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\migrations\202204020948250_addiscanceledcolumntocourse.resx
+++API
+i:{5f6c219c-8a01-400c-95b7-ec75f366be14}:d:\lập trình web\1911066507_vuvantin-bigschool\1911066507_vuvantin-bigschool\controllers\api\
